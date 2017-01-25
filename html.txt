@@ -1,0 +1,55 @@
+***HTML/CSS***
+
+Doctype = instruction to browser about the version of html document to render correctly
+
+
+data-* = allows user to store information in the DOM
+  ex) <div id="myDiv" data-user="joseph", data-list-size="5"></div>
+
+
+<keygen> = Generating a public key (used inside a form)
+
+
+<bdo> = changing direction of html text
+  ex) <p><bdo dir="rtl"> This text will go right to left.</bdo></p>
+
+
+<mark></mark> = Highlight text in html
+
+<style scoped> = styles will only apply the element's parent and child elements.
+  ex) <div>
+      <style scoped>
+      h1 {color:red;}
+      </style>
+      </div>
+
+
+span vs. div :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------
